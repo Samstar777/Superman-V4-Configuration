@@ -47,7 +47,7 @@ Follow these steps to create a custom schema configuration profile:
     - Click the associated checkbox to enable the setting.
     - Provide the desired value for the setting.
     - Repeat these steps for any additional settings you want to configure.
-    - for more info, refer [Youtube Vudeo](https://youtu.be/fkb-IhcCgoo?si=YKJY7P4QoMMSK1yv)
+    - for more info, refer [Youtube Video](https://youtu.be/fkb-IhcCgoo?si=YKJY7P4QoMMSK1yv)
 
  5. Scope the Profile:
 
